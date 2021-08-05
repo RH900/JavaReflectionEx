@@ -123,30 +123,7 @@ public Class cl = Aluno.class;
        
       
       
-//       Method[] met = cl.getDeclaredMethods();
-//			for (int g = 0; g < met.length; g++) {
-//				System.out.println(fi[g].getName());
-//			}
-       
-       
-       
-        
-        
-        
-        
-//       
-//		try {
-//                        Aluno aluno = new Aluno("Rubens", 0000000, "empty", "empty", 0);
-//			Class c2 = Class.forName("javareflectionlistaex1.Aluno");
-//			Field[] fi = c2.getDeclaredFields();
-//			Method[] met = c2.getDeclaredMethods();
-//			for (int g = 0; g < met.length; g++) {
-//				System.out.println(fi[g].getName() + ": " + met[g].invoke(aluno));
-//			}
-//
-//		} catch (Throwable e) {
-//			System.err.print(e);
-//		}
+
 	}
    
    
